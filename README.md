@@ -1,3 +1,3 @@
 # PowerBI-Anime-Dashboard
 Power BI dashboard analyzing anime by genre and rank
-<img width="1884" height="1004" alt="Dashboard" src="https://github.com/user-attachments/assets/6519264e-90bf-4c85-bfec-0ec3f9d0c7c2" />
+<img width="1885" height="1003" alt="Dashboard" src="https://github.com/user-attachments/assets/f36daea5-70ca-4f79-bb5d-3e08ff71a22e" />
